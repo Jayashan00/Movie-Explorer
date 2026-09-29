@@ -1,0 +1,1 @@
+.hero{min-height:610px;background-size:cover;background-position:center;display:flex;align-items:center}.hero-content{max-width:800px;padding:70px max(24px,calc((100vw - 1440px)/2 + 24px))}.hero-content h2{letter-spacing:-.04em}@media(max-width:700px){.hero{min-height:590px;background-position:62% center}.hero-content{padding:35px 18px}}
