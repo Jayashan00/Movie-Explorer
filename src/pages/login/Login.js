@@ -1,4 +1,3 @@
-```jsx
 import React, { useState } from 'react';
 import {
   Box,
@@ -127,4 +126,3 @@ export default function Login() {
     </main>
   );
 }
-```
